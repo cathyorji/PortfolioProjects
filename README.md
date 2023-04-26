@@ -5,3 +5,13 @@ For almost 2 years, we have been living with the Covid-19 Pandemic since it surf
 I have extract the Covid-19 Dataset from OurWorldinData from 24 Feb 2020 to 22 June 2021.
 
 ## Analysis Process
+* Initial analysis of datasets used Microsoft Excel.
+* Data cleaning, manipulation and exploration using Microsoft SQL.
+* Data Visualization using Tableau Public via Dashboard.
+
+From the dataset, 4 key areas interests me for me to perform further analysis:
+
+* % Population Infected Per Country
+* Global Covid Numbers
+* Total Death Per Continents
+* % Population Infected of 5 countries that I am interested in.
