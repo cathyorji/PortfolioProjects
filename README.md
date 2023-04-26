@@ -3,7 +3,9 @@
 This project explores data related to the COVID-19 pandemic, specifically looking at data on cases, deaths, and vaccinations across various countries and continents. The project makes use of several SQL techniques such as joins, CTEs, temp tables, window functions, and aggregate functions to analyze and visualize the data.
 
 # Data Sources
+
 The project uses two main datasets:
+
 covid_deaths: This dataset contains information on COVID-19 cases and deaths by location and date.
 
 covid_vaccinations: This dataset contains information on COVID-19 vaccinations by location and date.
