@@ -5,7 +5,9 @@ This project explores data related to the COVID-19 pandemic, specifically lookin
 # Data Sources
 The project uses two main datasets:
 covid_deaths: This dataset contains information on COVID-19 cases and deaths by location and date.
+
 covid_vaccinations: This dataset contains information on COVID-19 vaccinations by location and date.
+
 Both datasets were obtained from public sources and cleaned for use in this project. The data is downloaded from the Our World in Data and imported into PostgreSQL automatically using the COVID 19 project_csv to PostgreSQL automated code notebook.
 
 # SQL Techniques Used
